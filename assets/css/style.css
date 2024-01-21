@@ -941,7 +941,9 @@ section {
 
 #team .member h4 {
   font-weight: 700;
-  margin-bottom: 2px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    font-size: 16px;
 }
 
 #team .member span {
