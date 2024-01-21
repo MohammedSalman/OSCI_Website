@@ -935,7 +935,7 @@ section {
   height: 260px;
 }
 
-#team .member .pic img {
+/* #team .member .pic img {
   max-width: 75%;
 }
 
@@ -950,7 +950,35 @@ section {
   font-style: italic;
   display: block;
   font-size: 13px;
+} */
+
+
+
+#team .member .pic img {
+  max-width: 75%;
+  margin: 0;
+  padding: 0;
 }
+
+#team .member h4 {
+  font-weight: 700;
+  margin-top: 5px;
+  margin-bottom: 2px;
+  font-size: 16px;
+  padding: 0;
+  /* Add this line */
+}
+
+#team .member span {
+  font-style: italic;
+  display: block;
+  font-size: 13px;
+  margin: 0;
+  /* Add this line */
+  padding: 0;
+  /* Add this line */
+}
+
 
 #team .member .social {
   margin-top: 15px;
