@@ -929,36 +929,35 @@ section {
   margin-bottom: 5px;
 }
 
-#team .member .pic {
+/* #team .member .pic {
   margin-bottom: 5px;
   overflow: hidden;
   height: 60px;
 }
 
-/* #team .member .pic img {
-  max-width: 75%;
-}
-
-#team .member h4 {
-  font-weight: 700;
-    margin-top: 5px;
-    margin-bottom: 2px;
-    font-size: 16px;
-}
-
-#team .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
-} */
-
-
-
 #team .member .pic img {
   max-width: 75%;
   margin: 0;
   padding: 0;
+} */
+
+
+
+#team .member .pic {
+  margin-bottom: 5px;
+  overflow: hidden;
+  height: auto;
+  /* Changed from fixed height to auto */
 }
+
+#team .member .pic img {
+  max-width: 75%;
+  height: auto;
+  /* Maintains the aspect ratio */
+  margin: 0;
+  padding: 0;
+}
+
 
 #team .member h4 {
   font-weight: 500;
