@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="40"
-   height="40"
-   viewBox="0 0 40 40"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
    version="1.1"
    id="svg1"
    sodipodi:docname="orcid.logo.icon.svg"
@@ -25,9 +25,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="3.2777778"
-     inkscape:cx="36"
-     inkscape:cy="36"
+     inkscape:zoom="11.325481"
+     inkscape:cx="4.7680096"
+     inkscape:cy="9.2711298"
      inkscape:window-width="1312"
      inkscape:window-height="449"
      inkscape:window-x="0"
@@ -43,7 +43,7 @@
      stroke-width="1"
      fill="none"
      fill-rule="evenodd"
-     transform="matrix(0.5,0,0,0.5,2.1355932,2.1355932)">
+     transform="matrix(0.26895337,0,0,0.26895337,0.30508524,0.39338141)">
     <g
        id="hero"
        transform="translate(-924,-72)"
@@ -63,7 +63,7 @@
              fill="#ffffff">
             <polygon
                id="polygon1"
-               points="5.0373493,9.1443179 5.0373493,22.69305 5.0373493,39.125088 0.69542986,39.125088 0.69542986,9.1443179 " />
+               points="0.69542986,39.125088 0.69542986,9.1443179 5.0373493,9.1443179 5.0373493,22.69305 5.0373493,39.125088 " />
             <path
                d="m 11.409257,9.1443179 h 11.728821 c 11.164936,0 16.070741,7.9220891 16.070741,15.0043811 0,7.698144 -6.061771,15.004382 -16.014352,15.004382 h -11.78521 z m 4.34192,26.1177011 h 6.907599 c 9.839804,0 12.095347,-7.418211 12.095347,-11.11332 0,-6.018548 -3.862617,-11.11332 -12.320902,-11.11332 h -6.682044 z"
                id="Shape" />
