@@ -1245,3 +1245,13 @@ section {
   flex-wrap: wrap;
 }
 
+
+
+
+a {
+  color: var(--primary-color);
+}
+
+.back-to-top {
+  background: var(--primary-color);
+}
