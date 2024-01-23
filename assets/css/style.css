@@ -9,11 +9,6 @@
 --------------------------------------------------------------*/
 
 
-:root {
-  --primary-color: #ff6347;
-  /* Example: a tomato red color */
-}
-
 
 body {
   background: #fff;
@@ -1247,11 +1242,3 @@ section {
 
 
 
-
-a {
-  color: var(--primary-color);
-}
-
-.back-to-top {
-  background: var(--primary-color);
-}
